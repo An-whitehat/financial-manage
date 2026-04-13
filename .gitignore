@@ -1,0 +1,15 @@
+# Database JSON files - Không commit dữ liệu vào Git
+database/*.json
+
+# Giữ lại file code
+!database/data_manager.py
+!database/.gitkeep
+
+# Các file khác thường ignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+.vscode/
+.idea/
