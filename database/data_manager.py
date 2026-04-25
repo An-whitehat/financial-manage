@@ -107,6 +107,73 @@ class DataManager:
         raise ValueError("Sai tên đăng nhập hoặc mật khẩu!")
 
     # ====================== TRANSACTION ======================
+     # ====================== CATEGORY ======================
+
+    def add_category(self, name: str, category_type: str):
+        if not self.current_user:
+            raise ValueError("Chưa đăng nhập!")
+
+        name = name.strip()
+
+        # check trùng tên trong cùng user
+        for cat in self.categories.values():
+            if (
+                cat.name.lower() == name.lower()
+                and cat.user_id == self.current_user.user_id
+            ):
+                raise ValueError("Danh mục đã tồn tại!")
+
+        new_cat = Category(name, category_type, self.current_user.user_id)
+        self.categories[new_cat.category_id] = new_cat
+
+        self.save_all_data()
+        return new_cat
+
+
+    def update_category(self, category_id: str, name: str):
+        if category_id not in self.categories:
+            raise ValueError("Không tìm thấy danh mục!")
+
+        name = name.strip()
+
+        # check trùng tên (trừ chính nó)
+        for cat in self.categories.values():
+            if (
+                cat.name.lower() == name.lower()
+                and cat.user_id == self.current_user.user_id
+                and cat.category_id != category_id
+            ):
+                raise ValueError("Tên danh mục đã tồn tại!")
+
+        self.categories[category_id].name = name
+        self.save_all_data()
+
+
+    def delete_category(self, category_id: str):
+        if category_id not in self.categories:
+            raise ValueError("Không tồn tại!")
+
+        # check có transaction dùng không
+        for t in self.transactions:
+            if t.category_id == category_id:
+                raise ValueError("Danh mục đang được sử dụng, không thể xóa!")
+
+        del self.categories[category_id]
+        self.save_all_data()
+
+
+    def get_user_categories(self, category_type=None):
+        if not self.current_user:
+            return []
+
+        result = []
+        for cat in self.categories.values():
+            if cat.user_id == self.current_user.user_id:
+                if category_type and cat.category_type != category_type:
+                    continue
+                result.append(cat)
+
+        return result
     def add_transaction(self, date: str, amount: float, category_id: str, 
                        transaction_type: str, note: str = ""):
         if not self.current_user:
