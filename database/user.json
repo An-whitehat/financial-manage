@@ -1,16 +1,1 @@
-[
-  {
-    "user_id": 1,
-    "name": "Nguyen Van A",
-    "email": "vana@example.com",
-    "password": "hashed_password",
-    "currency": "VND"
-  },
-  {
-    "user_id": 2,
-    "name": "Tran Thi B",
-    "email": "thib@example.com",
-    "password": "hashed_password",
-    "currency": "USD"
-  }
-]
+[]
