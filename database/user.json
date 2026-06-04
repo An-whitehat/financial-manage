@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "user_id": "8a614d23-407c-43cd-998f-a90c2e9236f1",
+        "username": "",
+        "password_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "role": "user",
+        "created_at": "2026-06-04 15:51:18",
+        "last_login": null
+    },
+    {
+        "user_id": "d31d9a3d-12f7-4e0a-88ba-3b7e62f90c91",
+        "username": "admin",
+        "password_hash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+        "role": "user",
+        "created_at": "2026-06-04 15:56:38",
+        "last_login": "2026-06-04 16:42:22"
+    }
+]

@@ -1,3 +1,5 @@
+import sys
+print(sys.executable)
 import tkinter as tk
 from tkinter import ttk
 import sys
@@ -10,10 +12,10 @@ from database.data_manager import DataManager
 from gui.login_frame import LoginFrame
 
 # Khi có file của An, chỉ cần bỏ dấu #
-# from gui.dashboard import DashboardFrame
-# from gui.transaction_frame import TransactionFrame
-# from gui.budget_frame import BudgetFrame
-# from gui.report_frame import ReportFrame
+from gui.dashboard import DashboardFrame
+ #from gui.transaction_frame import TransactionFrame
+ #from gui.budget_frame import BudgetFrame
+from gui.report_frame import ReportFrame
 
 class MainWindow(tk.Tk):
     def __init__(self):
@@ -50,6 +52,7 @@ class MainWindow(tk.Tk):
         LoginFrame(self.container, self).pack(fill="both", expand=True)
 
     def login_success(self):
+        self.data_manager.create_sample_data()
         self.show_dashboard()
 
     def show_dashboard(self):

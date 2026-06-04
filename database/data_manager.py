@@ -1,11 +1,18 @@
 import json
 import os
+import sys
 from datetime import datetime
 from models.budget import Budget
 from models.user import User
 from models.category import Category
 from models.transaction import Transaction
+from pathlib import Path
 
+CURRENT_FILE = Path(__file__).resolve()
+ROOT_DIR = CURRENT_FILE.parents[1]  # Nhảy ra 2 cấp: data_manager.py -> database -> financial-manage
+
+if str(ROOT_DIR) not in sys.path:
+    sys.path.insert(0, str(ROOT_DIR))
 class DataManager:
     """
     Lớp quản lý dữ liệu chính (AppManager / FinanceManager)
@@ -325,6 +332,51 @@ class DataManager:
             "percentage": b.get_progress_percentage(transactions),
             "exceeded": b.is_exceeded(transactions)
         } for b in budgets]
+    def create_sample_data(self):
+        if not self.current_user:
+            return
+
+        if len(self.get_user_transactions()) > 0:
+            return
+            
+        # Sửa lại thụt lề (tab/4 spaces) cho các dòng dưới đây:
+        food = self.add_category("Ăn uống", "expense")
+        transport = self.add_category("Di chuyển", "expense")
+        entertainment = self.add_category("Giải trí", "expense")
+        salary = self.add_category("Lương", "income")
+
+        self.add_transaction(
+            "2025-06-01",
+            15000000,
+            salary.category_id,
+            "income",
+            "Lương tháng"
+        )
+
+        self.add_transaction(
+            "2025-06-02",
+            120000,
+            food.category_id,
+            "expense",
+            "Ăn trưa"
+        )
+
+        self.add_transaction(
+            "2025-06-03",
+            80000,
+            transport.category_id,
+            "expense",
+            "Đổ xăng"
+        )
+
+        self.add_transaction(
+            "2025-06-05",
+            300000,
+            entertainment.category_id,
+            "expense",
+            "Xem phim"
+        )
+   
 
     # ====================== UTILITY ======================
     def get_current_user(self):
