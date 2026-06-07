@@ -2,17 +2,20 @@ import json
 import os
 import sys
 from datetime import datetime
-from models.budget import Budget
-from models.user import User
-from models.category import Category
-from models.transaction import Transaction
 from pathlib import Path
 
+# Thêm đường dẫn root của dự án vào sys.path để tránh lỗi import khi chạy trực tiếp file trong thư mục con
 CURRENT_FILE = Path(__file__).resolve()
 ROOT_DIR = CURRENT_FILE.parents[1]  # Nhảy ra 2 cấp: data_manager.py -> database -> financial-manage
 
 if str(ROOT_DIR) not in sys.path:
     sys.path.insert(0, str(ROOT_DIR))
+
+from models.budget import Budget
+from models.user import User
+from models.category import Category
+from models.transaction import Transaction
+
 class DataManager:
     """
     Lớp quản lý dữ liệu chính (AppManager / FinanceManager)
