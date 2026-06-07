@@ -2,7 +2,6 @@ import sys
 print(sys.executable)
 import tkinter as tk
 from tkinter import ttk
-import sys
 import os
 
 # Giữ nguyên logic đường dẫn hệ thống
@@ -11,10 +10,11 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from database.data_manager import DataManager
 from gui.login_frame import LoginFrame
 
-# Khi có file của An, chỉ cần bỏ dấu #
+# Import đầy đủ các Tab
 from gui.dashboard import DashboardFrame
- #from gui.transaction_frame import TransactionFrame
- #from gui.budget_frame import BudgetFrame
+from gui.transaction_frame import TransactionFrame
+from gui.category_frame import CategoryFrame   # <-- Vừa thêm dòng này
+from gui.budget_frame import BudgetFrame
 from gui.report_frame import ReportFrame
 
 class MainWindow(tk.Tk):
@@ -73,11 +73,10 @@ class MainWindow(tk.Tk):
         self.notebook = ttk.Notebook(self.container)
         self.notebook.pack(fill="both", expand=True, padx=20, pady=20)
         
- 
         self.setup_tabs()
 
     def setup_tabs(self):
-        # Tab 1
+        # Tab 1: Tổng quan
         try:
             self.tab_home = DashboardFrame(self.notebook, self)
             self.notebook.add(self.tab_home, text="  Tổng quan  ")
@@ -85,7 +84,7 @@ class MainWindow(tk.Tk):
             self.tab_home = tk.Frame(self.notebook, bg="white")
             self.notebook.add(self.tab_home, text="  Tổng quan  ")
 
-        # Tab 2
+        # Tab 2: Giao dịch
         try:
             self.tab_trans = TransactionFrame(self.notebook, self)
             self.notebook.add(self.tab_trans, text="  Giao dịch  ")
@@ -93,7 +92,15 @@ class MainWindow(tk.Tk):
             self.tab_trans = tk.Frame(self.notebook, bg="white")
             self.notebook.add(self.tab_trans, text="  Giao dịch  ")
 
-        # Tab 3
+        # Tab 3: Danh mục (Vừa thêm)
+        try:
+            self.tab_category = CategoryFrame(self.notebook, self)
+            self.notebook.add(self.tab_category, text="  Danh mục  ")
+        except NameError:
+            self.tab_category = tk.Frame(self.notebook, bg="white")
+            self.notebook.add(self.tab_category, text="  Danh mục  ")
+
+        # Tab 4: Ngân sách
         try:
             self.tab_budget = BudgetFrame(self.notebook, self)
             self.notebook.add(self.tab_budget, text="  Ngân sách  ")
@@ -101,7 +108,7 @@ class MainWindow(tk.Tk):
             self.tab_budget = tk.Frame(self.notebook, bg="white")
             self.notebook.add(self.tab_budget, text="  Ngân sách  ")
 
-        # Tab 4
+        # Tab 5: Báo cáo
         try:
             self.tab_report = ReportFrame(self.notebook, self)
             self.notebook.add(self.tab_report, text="  Báo cáo  ")
