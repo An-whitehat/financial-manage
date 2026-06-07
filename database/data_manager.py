@@ -69,10 +69,10 @@ class DataManager:
                         budget = Budget.from_dict(b)
                         self.budgets[budget.budget_id] = budget
 
-            print("✅ Đã load dữ liệu thành công!")
+            print("[DataManager] Da load du lieu thanh cong!")
 
         except Exception as e:
-            print(f"⚠️ Lỗi khi load dữ liệu: {e}")
+            print(f"[DataManager] Loi khi load du lieu: {e}")
 
     def save_all_data(self):
         """Save tất cả dữ liệu ra JSON"""
@@ -101,10 +101,10 @@ class DataManager:
                 json.dump([b.to_dict() for b in self.budgets.values()],
                           f, ensure_ascii=False, indent=4)
 
-            print("✅ Đã lưu dữ liệu thành công!")
+            print("[DataManager] Da luu du lieu thanh cong!")
 
         except Exception as e:
-            print(f"❌ Lỗi khi lưu dữ liệu: {e}")
+            print(f"[DataManager] Loi khi luu du lieu: {e}")
 
     # ====================== USER ======================
     def register_user(self, username: str, password: str, role: str = "user"):

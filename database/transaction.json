@@ -38,5 +38,1535 @@
         "transaction_type": "expense",
         "note": "Xem phim",
         "created_at": "2026-06-04 16:24:02"
+    },
+    {
+        "transaction_id": "0a93dbe8-2f28-49a9-b2a2-3970a188bcfc",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-01-05",
+        "amount": 20000000.0,
+        "category_id": "6dbd3170-f555-4599-859f-8372ce31d73e",
+        "transaction_type": "income",
+        "note": "Lương công ty tháng 01",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "d9d6111a-fdc8-470a-9d39-e1710a1ef2f8",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-01-01",
+        "amount": 4500000.0,
+        "category_id": "85f0f62f-7817-4678-9324-17d0fdcf66a2",
+        "transaction_type": "expense",
+        "note": "Tiền thuê nhà tháng 01",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "67e75d0b-c363-46a5-aa5a-8fee0d6087a8",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-01-10",
+        "amount": 1097974.0,
+        "category_id": "1502cd55-3158-419c-8d20-4239eae26f92",
+        "transaction_type": "expense",
+        "note": "Điện nước mạng tháng 01",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "9149278e-7b98-4c24-9ad5-916475976e22",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-02-05",
+        "amount": 22000000.0,
+        "category_id": "6dbd3170-f555-4599-859f-8372ce31d73e",
+        "transaction_type": "income",
+        "note": "Lương công ty tháng 02",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "6d4776a2-6f00-40ce-82c2-5441410e7385",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-02-01",
+        "amount": 4500000.0,
+        "category_id": "85f0f62f-7817-4678-9324-17d0fdcf66a2",
+        "transaction_type": "expense",
+        "note": "Tiền thuê nhà tháng 02",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "1b75a95e-918f-4e69-bb84-2fd23076b99a",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-02-10",
+        "amount": 636325.0,
+        "category_id": "1502cd55-3158-419c-8d20-4239eae26f92",
+        "transaction_type": "expense",
+        "note": "Điện nước mạng tháng 02",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "d7c7a9a3-e99a-4b61-852c-adf2e666a78c",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-03-05",
+        "amount": 22000000.0,
+        "category_id": "6dbd3170-f555-4599-859f-8372ce31d73e",
+        "transaction_type": "income",
+        "note": "Lương công ty tháng 03",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "1e0e15a2-9ba7-44fd-b052-f46bc513caf1",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-03-01",
+        "amount": 4500000.0,
+        "category_id": "85f0f62f-7817-4678-9324-17d0fdcf66a2",
+        "transaction_type": "expense",
+        "note": "Tiền thuê nhà tháng 03",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "3cd913a2-33d1-4742-92ee-05b2ed2c2f5a",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-03-10",
+        "amount": 1060160.0,
+        "category_id": "1502cd55-3158-419c-8d20-4239eae26f92",
+        "transaction_type": "expense",
+        "note": "Điện nước mạng tháng 03",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "84cb7111-1d36-4b4f-84cf-62fb95fb51d8",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-04-05",
+        "amount": 22000000.0,
+        "category_id": "6dbd3170-f555-4599-859f-8372ce31d73e",
+        "transaction_type": "income",
+        "note": "Lương công ty tháng 04",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "37f414eb-98a5-491f-88db-b3e3e6235f78",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-04-01",
+        "amount": 4500000.0,
+        "category_id": "85f0f62f-7817-4678-9324-17d0fdcf66a2",
+        "transaction_type": "expense",
+        "note": "Tiền thuê nhà tháng 04",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "2ab01619-9eed-4efd-a261-884b4a390d3e",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-04-10",
+        "amount": 1204187.0,
+        "category_id": "1502cd55-3158-419c-8d20-4239eae26f92",
+        "transaction_type": "expense",
+        "note": "Điện nước mạng tháng 04",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "1773a381-294e-46c8-8524-22d96ce0168a",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-05-05",
+        "amount": 20000000.0,
+        "category_id": "6dbd3170-f555-4599-859f-8372ce31d73e",
+        "transaction_type": "income",
+        "note": "Lương công ty tháng 05",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "320da881-70a6-48cb-a4db-a7a4b536a3dd",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-05-01",
+        "amount": 4500000.0,
+        "category_id": "85f0f62f-7817-4678-9324-17d0fdcf66a2",
+        "transaction_type": "expense",
+        "note": "Tiền thuê nhà tháng 05",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "0b313013-0d4f-40e5-a030-d83840f7e512",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-05-10",
+        "amount": 656388.0,
+        "category_id": "1502cd55-3158-419c-8d20-4239eae26f92",
+        "transaction_type": "expense",
+        "note": "Điện nước mạng tháng 05",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "66ddb0ed-8448-48fc-9935-0a6ebb4e40e2",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-06-05",
+        "amount": 22000000.0,
+        "category_id": "6dbd3170-f555-4599-859f-8372ce31d73e",
+        "transaction_type": "income",
+        "note": "Lương công ty tháng 06",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "1a3e364a-a7fa-47eb-ba8e-dda770d38e90",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-06-01",
+        "amount": 4500000.0,
+        "category_id": "85f0f62f-7817-4678-9324-17d0fdcf66a2",
+        "transaction_type": "expense",
+        "note": "Tiền thuê nhà tháng 06",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "0d10453f-cadb-48d5-8347-3ff158969c98",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-06-10",
+        "amount": 1125313.0,
+        "category_id": "1502cd55-3158-419c-8d20-4239eae26f92",
+        "transaction_type": "expense",
+        "note": "Điện nước mạng tháng 06",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "d3e9e85d-3252-4bd6-b808-2e8907fabfae",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-06-05",
+        "amount": 5000000.0,
+        "category_id": "4079a498-0394-4b9d-99f3-b9a91e9108e1",
+        "transaction_type": "income",
+        "note": "Lãi nhận từ quỹ đầu tư",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "ddfb2087-ff15-4dee-be35-7c1e02a77b61",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-04-20",
+        "amount": 500000.0,
+        "category_id": "69f0018a-4e26-490d-9649-99dbefb6cb7a",
+        "transaction_type": "income",
+        "note": "Thu nhập kinh doanh thêm",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "35674261-5d48-4d24-8df6-6244e4785ffd",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-01-15",
+        "amount": 1500000.0,
+        "category_id": "69f0018a-4e26-490d-9649-99dbefb6cb7a",
+        "transaction_type": "income",
+        "note": "Thu nhập kinh doanh thêm",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "2b94f459-b9fb-4357-a72b-8f3c9c2f9ac0",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-03-24",
+        "amount": 5000000.0,
+        "category_id": "4079a498-0394-4b9d-99f3-b9a91e9108e1",
+        "transaction_type": "income",
+        "note": "Lãi nhận từ quỹ đầu tư",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "d3ac0bc0-02c7-42ee-8bb4-00702b7f9790",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-01-19",
+        "amount": 500000.0,
+        "category_id": "4079a498-0394-4b9d-99f3-b9a91e9108e1",
+        "transaction_type": "income",
+        "note": "Lãi nhận từ quỹ đầu tư",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "53b891de-bf6c-4350-a3a7-098bed3c90f1",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-05-30",
+        "amount": 1000000.0,
+        "category_id": "69f0018a-4e26-490d-9649-99dbefb6cb7a",
+        "transaction_type": "income",
+        "note": "Thu nhập kinh doanh thêm",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "75747a85-0cf1-4e62-8353-a71dcfafe97b",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-04-21",
+        "amount": 5000000.0,
+        "category_id": "69f0018a-4e26-490d-9649-99dbefb6cb7a",
+        "transaction_type": "income",
+        "note": "Thu nhập kinh doanh thêm",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "29dd69e0-716d-4290-bc2f-6d50a0ed8271",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-02-25",
+        "amount": 500000.0,
+        "category_id": "69f0018a-4e26-490d-9649-99dbefb6cb7a",
+        "transaction_type": "income",
+        "note": "Thu nhập kinh doanh thêm",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "dc703421-4261-4596-a209-69b6e47a2d90",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-05-13",
+        "amount": 500000.0,
+        "category_id": "69f0018a-4e26-490d-9649-99dbefb6cb7a",
+        "transaction_type": "income",
+        "note": "Thu nhập kinh doanh thêm",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "6bb02316-1c92-488c-97f6-4bedabecf5f3",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-05-18",
+        "amount": 1000000.0,
+        "category_id": "4079a498-0394-4b9d-99f3-b9a91e9108e1",
+        "transaction_type": "income",
+        "note": "Lãi nhận từ quỹ đầu tư",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "c5f24cef-6a9c-4b8b-afcc-cb3f59583d3b",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-02-08",
+        "amount": 1000000.0,
+        "category_id": "4079a498-0394-4b9d-99f3-b9a91e9108e1",
+        "transaction_type": "income",
+        "note": "Lãi nhận từ quỹ đầu tư",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "30233c65-d3ad-4c2e-9335-f66156b1f11c",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-01-04",
+        "amount": 5000000.0,
+        "category_id": "69f0018a-4e26-490d-9649-99dbefb6cb7a",
+        "transaction_type": "income",
+        "note": "Thu nhập kinh doanh thêm",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "b35e3401-b1d1-4118-93d5-dfb80ae8068d",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-01-21",
+        "amount": 3000000.0,
+        "category_id": "69f0018a-4e26-490d-9649-99dbefb6cb7a",
+        "transaction_type": "income",
+        "note": "Thu nhập kinh doanh thêm",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "47efe410-4683-49f2-86e7-6c2bb357ca9e",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-04-24",
+        "amount": 5000000.0,
+        "category_id": "4079a498-0394-4b9d-99f3-b9a91e9108e1",
+        "transaction_type": "income",
+        "note": "Lãi nhận từ quỹ đầu tư",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "961c475a-7179-4cb3-bc9a-ae135361bd26",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-03-18",
+        "amount": 5000000.0,
+        "category_id": "4079a498-0394-4b9d-99f3-b9a91e9108e1",
+        "transaction_type": "income",
+        "note": "Lãi nhận từ quỹ đầu tư",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "a3d30669-fa95-40aa-bb21-24814d2027b4",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-05-11",
+        "amount": 67128.0,
+        "category_id": "36b898a7-194a-4f32-bc8b-ca681edee38d",
+        "transaction_type": "expense",
+        "note": "Ăn trưa cơm văn phòng",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "f5d54296-9607-4983-84b0-8d5ec77010b4",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-04-28",
+        "amount": 605262.0,
+        "category_id": "36b898a7-194a-4f32-bc8b-ca681edee38d",
+        "transaction_type": "expense",
+        "note": "Liên hoan tối cuối tuần",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "2ef64d20-c3d3-4d2c-bf69-9c9327ecc83f",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-03-13",
+        "amount": 238263.0,
+        "category_id": "7a78a914-d126-4622-8782-add08bbe7ce3",
+        "transaction_type": "expense",
+        "note": "Vé xem phim CGV + bắp nước",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "8ea539b5-d276-453c-bcd6-6a6ae58e41cc",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-02-11",
+        "amount": 450855.0,
+        "category_id": "686ee012-7341-4d45-a7eb-11e960f6a023",
+        "transaction_type": "expense",
+        "note": "Mua thẻ tập gym/yoga tháng",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "ec789059-9bec-4d69-bc06-fe262513fb83",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-04-20",
+        "amount": 385634.0,
+        "category_id": "7a78a914-d126-4622-8782-add08bbe7ce3",
+        "transaction_type": "expense",
+        "note": "Mua sắm game online",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "5f929f6a-b5f8-4908-80b2-45f79c971cee",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-04-26",
+        "amount": 79819.0,
+        "category_id": "7bade94e-ad18-4f70-95d8-7e0c8cec8f6d",
+        "transaction_type": "expense",
+        "note": "Đổ xăng xe máy",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "6f405e48-5acd-41f7-aa25-1eed8779ba64",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-02-04",
+        "amount": 240196.0,
+        "category_id": "7a78a914-d126-4622-8782-add08bbe7ce3",
+        "transaction_type": "expense",
+        "note": "Vé xem phim CGV + bắp nước",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "69dab9b1-d3fd-4818-9a0d-e4ce2f67af35",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-02-14",
+        "amount": 60192.0,
+        "category_id": "7bade94e-ad18-4f70-95d8-7e0c8cec8f6d",
+        "transaction_type": "expense",
+        "note": "Đổ xăng xe máy",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "39b25676-2ba9-432d-8746-4545c36fc822",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-01-04",
+        "amount": 467828.0,
+        "category_id": "686ee012-7341-4d45-a7eb-11e960f6a023",
+        "transaction_type": "expense",
+        "note": "Mua thẻ tập gym/yoga tháng",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "22c13630-af5f-4130-b660-a85d2e79f783",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-06-06",
+        "amount": 164404.0,
+        "category_id": "4cf76c01-6a5f-4769-97f7-6d0dc08ce9d5",
+        "transaction_type": "expense",
+        "note": "Mua áo thun mới",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "5945e4a3-5f84-4995-9c79-5ddac56cf9bf",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-02-15",
+        "amount": 296720.0,
+        "category_id": "7bade94e-ad18-4f70-95d8-7e0c8cec8f6d",
+        "transaction_type": "expense",
+        "note": "Thay dầu/sửa phanh xe máy",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "bf822f39-1d91-4afa-9f0c-edcb719e4e99",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-03-22",
+        "amount": 259943.0,
+        "category_id": "7bade94e-ad18-4f70-95d8-7e0c8cec8f6d",
+        "transaction_type": "expense",
+        "note": "Thay dầu/sửa phanh xe máy",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "3884f93a-6d3f-4cb7-bc23-31dbd0b30499",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-03-25",
+        "amount": 571842.0,
+        "category_id": "686ee012-7341-4d45-a7eb-11e960f6a023",
+        "transaction_type": "expense",
+        "note": "Mua thẻ tập gym/yoga tháng",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "33451eca-6c3f-487d-9ae7-99d27c8ba47d",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-01-25",
+        "amount": 286614.0,
+        "category_id": "4cf76c01-6a5f-4769-97f7-6d0dc08ce9d5",
+        "transaction_type": "expense",
+        "note": "Đồ dùng gia đình thiết yếu",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "b67454c9-46f5-44ba-8e6b-4e08d931e4d8",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-05-13",
+        "amount": 406806.0,
+        "category_id": "7a78a914-d126-4622-8782-add08bbe7ce3",
+        "transaction_type": "expense",
+        "note": "Đi uống bia với đồng nghiệp",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "c0cbf45d-9f1b-4028-a0d3-2677a0f6f5b0",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-03-05",
+        "amount": 48593.0,
+        "category_id": "686ee012-7341-4d45-a7eb-11e960f6a023",
+        "transaction_type": "expense",
+        "note": "Mua thuốc cảm/ho",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "71e8c2e4-e468-40b4-95d8-bd84cee33300",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-04-09",
+        "amount": 54270.0,
+        "category_id": "36b898a7-194a-4f32-bc8b-ca681edee38d",
+        "transaction_type": "expense",
+        "note": "Ăn trưa cơm văn phòng",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "f08eaa0a-7bbf-464f-94c3-c5ac87d69e0b",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-01-26",
+        "amount": 331576.0,
+        "category_id": "4cf76c01-6a5f-4769-97f7-6d0dc08ce9d5",
+        "transaction_type": "expense",
+        "note": "Mua áo thun mới",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "0652451c-a73f-4e65-872a-b67eac0f84ce",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-04-06",
+        "amount": 183605.0,
+        "category_id": "686ee012-7341-4d45-a7eb-11e960f6a023",
+        "transaction_type": "expense",
+        "note": "Khám răng định kỳ tại nha khoa",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "2a641e2c-3e2a-47de-87b4-758d0a999986",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-04-23",
+        "amount": 319746.0,
+        "category_id": "4cf76c01-6a5f-4769-97f7-6d0dc08ce9d5",
+        "transaction_type": "expense",
+        "note": "Mua áo thun mới",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "23ba5410-d285-4196-b923-a9c082f4e5c4",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-06-07",
+        "amount": 82378.0,
+        "category_id": "686ee012-7341-4d45-a7eb-11e960f6a023",
+        "transaction_type": "expense",
+        "note": "Mua thuốc cảm/ho",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "06f13ca3-4d00-4263-b8ad-9cb578a0790f",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-01-13",
+        "amount": 71354.0,
+        "category_id": "686ee012-7341-4d45-a7eb-11e960f6a023",
+        "transaction_type": "expense",
+        "note": "Mua thuốc cảm/ho",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "686872d2-6f0b-4da7-9704-0aeaeb6f436f",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-04-07",
+        "amount": 84132.0,
+        "category_id": "686ee012-7341-4d45-a7eb-11e960f6a023",
+        "transaction_type": "expense",
+        "note": "Mua thuốc cảm/ho",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "34a3820c-0c2a-4245-bf3e-3e1eedf5e359",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-04-02",
+        "amount": 350170.0,
+        "category_id": "7a78a914-d126-4622-8782-add08bbe7ce3",
+        "transaction_type": "expense",
+        "note": "Đi uống bia với đồng nghiệp",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "75d29cde-ecf2-455e-93c0-49c4742e6f03",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-05-07",
+        "amount": 281305.0,
+        "category_id": "4cf76c01-6a5f-4769-97f7-6d0dc08ce9d5",
+        "transaction_type": "expense",
+        "note": "Mua áo thun mới",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "7b65d0d2-9e7c-42f3-86cb-9cd6d5078f15",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-03-20",
+        "amount": 63257.0,
+        "category_id": "36b898a7-194a-4f32-bc8b-ca681edee38d",
+        "transaction_type": "expense",
+        "note": "Cà phê Highland/Starbucks",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "4b2c58c7-e310-41d0-aad5-98afa42fab27",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-03-29",
+        "amount": 58332.0,
+        "category_id": "7bade94e-ad18-4f70-95d8-7e0c8cec8f6d",
+        "transaction_type": "expense",
+        "note": "Đổ xăng xe máy",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "a1c77e8c-f456-47ed-ae47-ebd7ce47f6b1",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-01-07",
+        "amount": 74783.0,
+        "category_id": "7bade94e-ad18-4f70-95d8-7e0c8cec8f6d",
+        "transaction_type": "expense",
+        "note": "Đổ xăng xe máy",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "24018d96-4bb1-4a1a-816b-e0344566c85c",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-03-02",
+        "amount": 144303.0,
+        "category_id": "4cf76c01-6a5f-4769-97f7-6d0dc08ce9d5",
+        "transaction_type": "expense",
+        "note": "Đồ dùng gia đình thiết yếu",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "4d4bf81f-21f8-4c67-8775-fd9045bc8375",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-03-31",
+        "amount": 427769.0,
+        "category_id": "686ee012-7341-4d45-a7eb-11e960f6a023",
+        "transaction_type": "expense",
+        "note": "Mua thẻ tập gym/yoga tháng",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "0a9dcd47-fd2e-4eb3-8e36-1a46fe6dac64",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-01-08",
+        "amount": 1442109.0,
+        "category_id": "4cf76c01-6a5f-4769-97f7-6d0dc08ce9d5",
+        "transaction_type": "expense",
+        "note": "Mua giày chạy bộ",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "2a40260d-7201-4420-bd63-0f0da7b94253",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-05-17",
+        "amount": 42526.0,
+        "category_id": "686ee012-7341-4d45-a7eb-11e960f6a023",
+        "transaction_type": "expense",
+        "note": "Mua thuốc cảm/ho",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "7925694a-446b-4270-8e7a-6726170badd9",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-05-27",
+        "amount": 559992.0,
+        "category_id": "686ee012-7341-4d45-a7eb-11e960f6a023",
+        "transaction_type": "expense",
+        "note": "Mua thẻ tập gym/yoga tháng",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "c927f085-7d61-41d0-8dbd-241eda9db5ae",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-03-29",
+        "amount": 92515.0,
+        "category_id": "686ee012-7341-4d45-a7eb-11e960f6a023",
+        "transaction_type": "expense",
+        "note": "Mua thuốc cảm/ho",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "9292975b-95a9-4ed4-b6ff-9073a88c2695",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-03-19",
+        "amount": 198911.0,
+        "category_id": "7bade94e-ad18-4f70-95d8-7e0c8cec8f6d",
+        "transaction_type": "expense",
+        "note": "Thay dầu/sửa phanh xe máy",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "de13a197-c732-498e-869b-e10ca8a79032",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-01-11",
+        "amount": 226990.0,
+        "category_id": "7bade94e-ad18-4f70-95d8-7e0c8cec8f6d",
+        "transaction_type": "expense",
+        "note": "Thay dầu/sửa phanh xe máy",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "6791610c-d5b7-4f90-b244-6283b29f2355",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-03-29",
+        "amount": 229956.0,
+        "category_id": "4cf76c01-6a5f-4769-97f7-6d0dc08ce9d5",
+        "transaction_type": "expense",
+        "note": "Mua áo thun mới",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "0eb8ad5f-b83a-4503-927c-486f40d21c4e",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-01-10",
+        "amount": 351560.0,
+        "category_id": "7a78a914-d126-4622-8782-add08bbe7ce3",
+        "transaction_type": "expense",
+        "note": "Đi uống bia với đồng nghiệp",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "6caf8c8b-2e03-40e1-aa00-563651085a54",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-05-12",
+        "amount": 51707.0,
+        "category_id": "7bade94e-ad18-4f70-95d8-7e0c8cec8f6d",
+        "transaction_type": "expense",
+        "note": "Đổ xăng xe máy",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "2b3456ac-162c-4f7b-b8f7-dc532eb9d888",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-02-02",
+        "amount": 65750.0,
+        "category_id": "7bade94e-ad18-4f70-95d8-7e0c8cec8f6d",
+        "transaction_type": "expense",
+        "note": "Đặt xe GrabBike đi làm",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "cf4af6c9-aefa-482d-80c5-42206e17c3f8",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-05-17",
+        "amount": 430352.0,
+        "category_id": "36b898a7-194a-4f32-bc8b-ca681edee38d",
+        "transaction_type": "expense",
+        "note": "Đi chợ mua thức ăn cả tuần",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "575d99f7-5bf5-46de-8ff7-7cc00d884727",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-05-20",
+        "amount": 153044.0,
+        "category_id": "4cf76c01-6a5f-4769-97f7-6d0dc08ce9d5",
+        "transaction_type": "expense",
+        "note": "Mua áo thun mới",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "c9da6654-1e2b-4336-84ab-b0ccf35c7918",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-02-18",
+        "amount": 610566.0,
+        "category_id": "36b898a7-194a-4f32-bc8b-ca681edee38d",
+        "transaction_type": "expense",
+        "note": "Liên hoan tối cuối tuần",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "b98cfa85-4e99-44ec-9e35-5a4ad71cb556",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-02-13",
+        "amount": 191873.0,
+        "category_id": "7a78a914-d126-4622-8782-add08bbe7ce3",
+        "transaction_type": "expense",
+        "note": "Mua sắm game online",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "efa2d6f7-2bd7-438f-8b8f-5c78696a814d",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-04-17",
+        "amount": 47110.0,
+        "category_id": "686ee012-7341-4d45-a7eb-11e960f6a023",
+        "transaction_type": "expense",
+        "note": "Mua thuốc cảm/ho",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "598944cc-1aa0-4d6d-96f8-fd549a5d8d08",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-02-16",
+        "amount": 37074.0,
+        "category_id": "36b898a7-194a-4f32-bc8b-ca681edee38d",
+        "transaction_type": "expense",
+        "note": "Ăn sáng phở/bún",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "96788d32-0ae9-48cd-a789-b8cd6c09d3d6",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-05-23",
+        "amount": 243639.0,
+        "category_id": "7a78a914-d126-4622-8782-add08bbe7ce3",
+        "transaction_type": "expense",
+        "note": "Vé xem phim CGV + bắp nước",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "e19e983a-2081-4bbe-ab69-406a1c460676",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-04-09",
+        "amount": 41632.0,
+        "category_id": "686ee012-7341-4d45-a7eb-11e960f6a023",
+        "transaction_type": "expense",
+        "note": "Mua thuốc cảm/ho",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "76c82caf-1043-4ac0-a3fa-c2c75f8794ea",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-05-29",
+        "amount": 219087.0,
+        "category_id": "7bade94e-ad18-4f70-95d8-7e0c8cec8f6d",
+        "transaction_type": "expense",
+        "note": "Thay dầu/sửa phanh xe máy",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "64f33903-5998-4163-97f6-33e79b40cf50",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-06-06",
+        "amount": 77404.0,
+        "category_id": "7bade94e-ad18-4f70-95d8-7e0c8cec8f6d",
+        "transaction_type": "expense",
+        "note": "Đặt xe GrabBike đi làm",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "13fb6fc7-e59a-4a13-8ec1-ba943e5babf7",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-03-04",
+        "amount": 82174.0,
+        "category_id": "36b898a7-194a-4f32-bc8b-ca681edee38d",
+        "transaction_type": "expense",
+        "note": "Cà phê Highland/Starbucks",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "4caf16fd-f291-4fe2-9ca5-14369aaf51ce",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-02-19",
+        "amount": 62191.0,
+        "category_id": "36b898a7-194a-4f32-bc8b-ca681edee38d",
+        "transaction_type": "expense",
+        "note": "Ăn trưa cơm văn phòng",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "d4f93c2e-97bc-4452-b0ca-6b752ac51362",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-05-03",
+        "amount": 80983.0,
+        "category_id": "36b898a7-194a-4f32-bc8b-ca681edee38d",
+        "transaction_type": "expense",
+        "note": "Cà phê Highland/Starbucks",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "0076ec6b-b96d-49d7-a790-e92e05488964",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-06-02",
+        "amount": 170659.0,
+        "category_id": "7a78a914-d126-4622-8782-add08bbe7ce3",
+        "transaction_type": "expense",
+        "note": "Vé xem phim CGV + bắp nước",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "bf60880d-6977-4d41-8825-6a09ff3d7b33",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-02-25",
+        "amount": 158580.0,
+        "category_id": "7bade94e-ad18-4f70-95d8-7e0c8cec8f6d",
+        "transaction_type": "expense",
+        "note": "Thay dầu/sửa phanh xe máy",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "bcd9240f-2edb-4878-9535-1251b2e32bb4",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-04-02",
+        "amount": 50665.0,
+        "category_id": "36b898a7-194a-4f32-bc8b-ca681edee38d",
+        "transaction_type": "expense",
+        "note": "Cà phê Highland/Starbucks",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "274dfbde-f302-4963-b0c2-d7a5bad8e2e8",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-02-26",
+        "amount": 62553.0,
+        "category_id": "7bade94e-ad18-4f70-95d8-7e0c8cec8f6d",
+        "transaction_type": "expense",
+        "note": "Đổ xăng xe máy",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "d45cc35c-d4b6-46fc-9ffc-c4ac8ad032d6",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-02-06",
+        "amount": 666847.0,
+        "category_id": "36b898a7-194a-4f32-bc8b-ca681edee38d",
+        "transaction_type": "expense",
+        "note": "Liên hoan tối cuối tuần",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "0f09a55a-e38d-4080-9c40-adec77041a17",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-04-01",
+        "amount": 289102.0,
+        "category_id": "686ee012-7341-4d45-a7eb-11e960f6a023",
+        "transaction_type": "expense",
+        "note": "Khám răng định kỳ tại nha khoa",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "c5aa9b6d-f022-4519-ad1e-343dcd606b76",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-04-15",
+        "amount": 157077.0,
+        "category_id": "686ee012-7341-4d45-a7eb-11e960f6a023",
+        "transaction_type": "expense",
+        "note": "Khám răng định kỳ tại nha khoa",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "68354438-7cd5-4104-8bab-4c86cbde305d",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-01-02",
+        "amount": 46468.0,
+        "category_id": "36b898a7-194a-4f32-bc8b-ca681edee38d",
+        "transaction_type": "expense",
+        "note": "Ăn sáng phở/bún",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "9e0df44a-d090-469a-a60c-b958108ed850",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-01-05",
+        "amount": 188367.0,
+        "category_id": "7bade94e-ad18-4f70-95d8-7e0c8cec8f6d",
+        "transaction_type": "expense",
+        "note": "Thay dầu/sửa phanh xe máy",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "003d0298-4612-424d-bbc6-202d82b5d493",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-06-01",
+        "amount": 345573.0,
+        "category_id": "36b898a7-194a-4f32-bc8b-ca681edee38d",
+        "transaction_type": "expense",
+        "note": "Đi chợ mua thức ăn cả tuần",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "ddd821e1-0d6e-4138-8101-54da8186d81d",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-04-17",
+        "amount": 161190.0,
+        "category_id": "7bade94e-ad18-4f70-95d8-7e0c8cec8f6d",
+        "transaction_type": "expense",
+        "note": "Thay dầu/sửa phanh xe máy",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "113666ee-f6bd-44a7-aec8-9cde91ffbb3d",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-05-10",
+        "amount": 870278.0,
+        "category_id": "7a78a914-d126-4622-8782-add08bbe7ce3",
+        "transaction_type": "expense",
+        "note": "Đi picnic dã ngoại cuối tuần",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "7ebbb2e8-2d65-4a05-b5e6-ea3bd62744bc",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-05-18",
+        "amount": 1075057.0,
+        "category_id": "4cf76c01-6a5f-4769-97f7-6d0dc08ce9d5",
+        "transaction_type": "expense",
+        "note": "Mua giày chạy bộ",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "af53cb7e-b742-4528-9304-d2776b9d0d59",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-01-17",
+        "amount": 60674.0,
+        "category_id": "36b898a7-194a-4f32-bc8b-ca681edee38d",
+        "transaction_type": "expense",
+        "note": "Ăn trưa cơm văn phòng",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "6de75914-8ad3-48ba-ba7a-8018b851b8f9",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-05-22",
+        "amount": 437591.0,
+        "category_id": "686ee012-7341-4d45-a7eb-11e960f6a023",
+        "transaction_type": "expense",
+        "note": "Mua thẻ tập gym/yoga tháng",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "66171133-3024-4dbb-b56e-9b87f09bc119",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-03-18",
+        "amount": 77125.0,
+        "category_id": "7bade94e-ad18-4f70-95d8-7e0c8cec8f6d",
+        "transaction_type": "expense",
+        "note": "Đặt xe GrabBike đi làm",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "d59b56f1-0b27-4906-bef4-34985b9e3f2d",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-01-22",
+        "amount": 48638.0,
+        "category_id": "7bade94e-ad18-4f70-95d8-7e0c8cec8f6d",
+        "transaction_type": "expense",
+        "note": "Đặt xe GrabBike đi làm",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "6f10f5e3-f23d-4980-8049-92af2189dfdd",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-02-20",
+        "amount": 201805.0,
+        "category_id": "7bade94e-ad18-4f70-95d8-7e0c8cec8f6d",
+        "transaction_type": "expense",
+        "note": "Thay dầu/sửa phanh xe máy",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "bb47dcaa-4346-4452-852a-c77d0ef73424",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-06-02",
+        "amount": 101085.0,
+        "category_id": "36b898a7-194a-4f32-bc8b-ca681edee38d",
+        "transaction_type": "expense",
+        "note": "Cà phê Highland/Starbucks",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "0085bbaf-f518-49f3-8cce-7ad617713031",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-02-12",
+        "amount": 266846.0,
+        "category_id": "7a78a914-d126-4622-8782-add08bbe7ce3",
+        "transaction_type": "expense",
+        "note": "Đi uống bia với đồng nghiệp",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "ebcbfe15-bab1-42cf-9564-9e2376692afd",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-05-05",
+        "amount": 303992.0,
+        "category_id": "686ee012-7341-4d45-a7eb-11e960f6a023",
+        "transaction_type": "expense",
+        "note": "Khám răng định kỳ tại nha khoa",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "b5db3110-0c8f-4b03-918b-eb5f0ce24155",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-02-02",
+        "amount": 178265.0,
+        "category_id": "686ee012-7341-4d45-a7eb-11e960f6a023",
+        "transaction_type": "expense",
+        "note": "Khám răng định kỳ tại nha khoa",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "e493f7fc-b04a-45b4-ab07-991f3933585c",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-05-19",
+        "amount": 57855.0,
+        "category_id": "36b898a7-194a-4f32-bc8b-ca681edee38d",
+        "transaction_type": "expense",
+        "note": "Ăn sáng phở/bún",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "62b6026c-5bfb-4327-920e-fcb78076e214",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-01-02",
+        "amount": 412250.0,
+        "category_id": "7a78a914-d126-4622-8782-add08bbe7ce3",
+        "transaction_type": "expense",
+        "note": "Đi uống bia với đồng nghiệp",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "a0ce53a0-cea9-426c-b537-a7fa285d3d92",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-03-04",
+        "amount": 262099.0,
+        "category_id": "7a78a914-d126-4622-8782-add08bbe7ce3",
+        "transaction_type": "expense",
+        "note": "Mua sắm game online",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "38592c75-53f1-4c1e-8c16-19463b0e2d35",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-03-25",
+        "amount": 369886.0,
+        "category_id": "686ee012-7341-4d45-a7eb-11e960f6a023",
+        "transaction_type": "expense",
+        "note": "Mua thẻ tập gym/yoga tháng",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "23269035-90ad-4c2f-a1a2-d7a50176dc69",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-02-17",
+        "amount": 50269.0,
+        "category_id": "36b898a7-194a-4f32-bc8b-ca681edee38d",
+        "transaction_type": "expense",
+        "note": "Cà phê Highland/Starbucks",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "295550b5-5a15-4273-8993-69665eaf13b1",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-01-02",
+        "amount": 76631.0,
+        "category_id": "7bade94e-ad18-4f70-95d8-7e0c8cec8f6d",
+        "transaction_type": "expense",
+        "note": "Đặt xe GrabBike đi làm",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "cee96121-c827-4ed7-bb67-85b1917a54f8",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-05-10",
+        "amount": 277604.0,
+        "category_id": "4cf76c01-6a5f-4769-97f7-6d0dc08ce9d5",
+        "transaction_type": "expense",
+        "note": "Đồ dùng gia đình thiết yếu",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "31cbdb8f-813e-4260-8242-f340b3ec4356",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-04-12",
+        "amount": 1275620.0,
+        "category_id": "4cf76c01-6a5f-4769-97f7-6d0dc08ce9d5",
+        "transaction_type": "expense",
+        "note": "Mua giày chạy bộ",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "ae67734a-c743-4c5d-a1cb-6095506e6189",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-05-11",
+        "amount": 491067.0,
+        "category_id": "686ee012-7341-4d45-a7eb-11e960f6a023",
+        "transaction_type": "expense",
+        "note": "Mua thẻ tập gym/yoga tháng",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "348ce9a6-c58d-4b93-8e18-385bc53b91d4",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-04-02",
+        "amount": 1496942.0,
+        "category_id": "4cf76c01-6a5f-4769-97f7-6d0dc08ce9d5",
+        "transaction_type": "expense",
+        "note": "Mua giày chạy bộ",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "2a58bfe8-85b7-46c0-9fd4-a9b996c37494",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-03-19",
+        "amount": 57284.0,
+        "category_id": "7bade94e-ad18-4f70-95d8-7e0c8cec8f6d",
+        "transaction_type": "expense",
+        "note": "Đổ xăng xe máy",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "b79a6101-11a1-4d2d-b9f6-ee79747d28a7",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-01-07",
+        "amount": 62163.0,
+        "category_id": "7bade94e-ad18-4f70-95d8-7e0c8cec8f6d",
+        "transaction_type": "expense",
+        "note": "Đổ xăng xe máy",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "abb9fdc8-421e-470a-855d-25916f631b7b",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-02-22",
+        "amount": 50210.0,
+        "category_id": "36b898a7-194a-4f32-bc8b-ca681edee38d",
+        "transaction_type": "expense",
+        "note": "Ăn trưa cơm văn phòng",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "016cd0dc-7783-471f-abb3-d9bc11120c94",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-05-14",
+        "amount": 289333.0,
+        "category_id": "4cf76c01-6a5f-4769-97f7-6d0dc08ce9d5",
+        "transaction_type": "expense",
+        "note": "Đồ dùng gia đình thiết yếu",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "e45e8710-1842-4ce4-a214-c9ab176c92c8",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-02-24",
+        "amount": 87047.0,
+        "category_id": "7bade94e-ad18-4f70-95d8-7e0c8cec8f6d",
+        "transaction_type": "expense",
+        "note": "Đặt xe GrabBike đi làm",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "f0b6ae83-6cba-462a-b1ac-e05df39941e0",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-02-11",
+        "amount": 369811.0,
+        "category_id": "7a78a914-d126-4622-8782-add08bbe7ce3",
+        "transaction_type": "expense",
+        "note": "Mua sắm game online",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "3897bb5c-b8c0-4673-a972-391934ae955f",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-03-12",
+        "amount": 92979.0,
+        "category_id": "686ee012-7341-4d45-a7eb-11e960f6a023",
+        "transaction_type": "expense",
+        "note": "Mua thuốc cảm/ho",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "86b4b763-f8d0-46e1-9ca9-aa39dd15c59f",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-01-09",
+        "amount": 334662.0,
+        "category_id": "7bade94e-ad18-4f70-95d8-7e0c8cec8f6d",
+        "transaction_type": "expense",
+        "note": "Thay dầu/sửa phanh xe máy",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "ea4a9e45-a711-47cc-87ef-07cd3558ffc7",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-03-04",
+        "amount": 235223.0,
+        "category_id": "7bade94e-ad18-4f70-95d8-7e0c8cec8f6d",
+        "transaction_type": "expense",
+        "note": "Thay dầu/sửa phanh xe máy",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "2ec17569-9919-4bb1-9453-18d02a9202ca",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-01-19",
+        "amount": 65604.0,
+        "category_id": "7bade94e-ad18-4f70-95d8-7e0c8cec8f6d",
+        "transaction_type": "expense",
+        "note": "Đặt xe GrabBike đi làm",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "db19954b-efb1-4af4-82de-09934db5da28",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-02-02",
+        "amount": 64200.0,
+        "category_id": "7bade94e-ad18-4f70-95d8-7e0c8cec8f6d",
+        "transaction_type": "expense",
+        "note": "Đặt xe GrabBike đi làm",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "0a8a533c-16a2-4764-a345-8c6d6c50b5ca",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-03-14",
+        "amount": 75854.0,
+        "category_id": "7bade94e-ad18-4f70-95d8-7e0c8cec8f6d",
+        "transaction_type": "expense",
+        "note": "Đặt xe GrabBike đi làm",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "f796465b-1e25-49f5-b6e0-6f9ad7a07e2c",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-01-21",
+        "amount": 77555.0,
+        "category_id": "7bade94e-ad18-4f70-95d8-7e0c8cec8f6d",
+        "transaction_type": "expense",
+        "note": "Đổ xăng xe máy",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "bb033f13-2c74-46e6-ac67-055f28e28df9",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-01-02",
+        "amount": 172691.0,
+        "category_id": "4cf76c01-6a5f-4769-97f7-6d0dc08ce9d5",
+        "transaction_type": "expense",
+        "note": "Đồ dùng gia đình thiết yếu",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "68dc4e80-24fd-4caa-adad-7f37df5d7979",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-04-01",
+        "amount": 519973.0,
+        "category_id": "36b898a7-194a-4f32-bc8b-ca681edee38d",
+        "transaction_type": "expense",
+        "note": "Liên hoan tối cuối tuần",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "f3a091b8-a6d1-4f70-9957-d6ff93e7ee54",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-01-09",
+        "amount": 169591.0,
+        "category_id": "4cf76c01-6a5f-4769-97f7-6d0dc08ce9d5",
+        "transaction_type": "expense",
+        "note": "Mua áo thun mới",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "5a83229a-d4f7-4619-9f12-a4a95dcf544d",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-01-19",
+        "amount": 1325119.0,
+        "category_id": "4cf76c01-6a5f-4769-97f7-6d0dc08ce9d5",
+        "transaction_type": "expense",
+        "note": "Mua giày chạy bộ",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "e0327a64-0963-4099-bfc8-68dceb1fe8bb",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-03-12",
+        "amount": 77253.0,
+        "category_id": "7bade94e-ad18-4f70-95d8-7e0c8cec8f6d",
+        "transaction_type": "expense",
+        "note": "Đổ xăng xe máy",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "e9f3dee1-d6e9-41ee-afca-fee1f4a439a7",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-05-21",
+        "amount": 70307.0,
+        "category_id": "36b898a7-194a-4f32-bc8b-ca681edee38d",
+        "transaction_type": "expense",
+        "note": "Ăn trưa cơm văn phòng",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "04d34a41-b9f3-4acb-bbad-fab946aa2944",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-06-04",
+        "amount": 716435.0,
+        "category_id": "7a78a914-d126-4622-8782-add08bbe7ce3",
+        "transaction_type": "expense",
+        "note": "Đi picnic dã ngoại cuối tuần",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "7dfd5b54-2836-44fc-b80e-6dd17db73f40",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-02-21",
+        "amount": 475516.0,
+        "category_id": "7a78a914-d126-4622-8782-add08bbe7ce3",
+        "transaction_type": "expense",
+        "note": "Đi uống bia với đồng nghiệp",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "ef8ceae4-d808-4e75-aaca-555a0c557043",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-05-04",
+        "amount": 73392.0,
+        "category_id": "7bade94e-ad18-4f70-95d8-7e0c8cec8f6d",
+        "transaction_type": "expense",
+        "note": "Đổ xăng xe máy",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "b15a57b6-2a3e-489e-ab00-3c263ee03eb0",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-01-11",
+        "amount": 313597.0,
+        "category_id": "7bade94e-ad18-4f70-95d8-7e0c8cec8f6d",
+        "transaction_type": "expense",
+        "note": "Thay dầu/sửa phanh xe máy",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "78a63f0d-64e3-4e5a-a78f-dd7e9442fe2f",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-05-09",
+        "amount": 299381.0,
+        "category_id": "686ee012-7341-4d45-a7eb-11e960f6a023",
+        "transaction_type": "expense",
+        "note": "Khám răng định kỳ tại nha khoa",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "652c7678-b56f-4bae-b767-3c1391e783a9",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-01-10",
+        "amount": 345304.0,
+        "category_id": "686ee012-7341-4d45-a7eb-11e960f6a023",
+        "transaction_type": "expense",
+        "note": "Khám răng định kỳ tại nha khoa",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "41b3674b-9df0-4d28-ae1a-fa0fe40c5b5d",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-01-19",
+        "amount": 174735.0,
+        "category_id": "4cf76c01-6a5f-4769-97f7-6d0dc08ce9d5",
+        "transaction_type": "expense",
+        "note": "Đồ dùng gia đình thiết yếu",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "2eca92d3-9d84-458d-a128-6aa12605e8f6",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-01-03",
+        "amount": 527760.0,
+        "category_id": "7a78a914-d126-4622-8782-add08bbe7ce3",
+        "transaction_type": "expense",
+        "note": "Đi picnic dã ngoại cuối tuần",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "a8b1169f-27f8-49b3-82da-c6c8df5dd1c2",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-04-22",
+        "amount": 80604.0,
+        "category_id": "686ee012-7341-4d45-a7eb-11e960f6a023",
+        "transaction_type": "expense",
+        "note": "Mua thuốc cảm/ho",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "14962846-41d4-4478-9f31-917a3c037b89",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-05-26",
+        "amount": 186232.0,
+        "category_id": "4cf76c01-6a5f-4769-97f7-6d0dc08ce9d5",
+        "transaction_type": "expense",
+        "note": "Mua áo thun mới",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "de80baaa-c041-4ad7-b407-551245aade4d",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-05-22",
+        "amount": 66900.0,
+        "category_id": "686ee012-7341-4d45-a7eb-11e960f6a023",
+        "transaction_type": "expense",
+        "note": "Mua thuốc cảm/ho",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "a747228e-4e71-4fb1-8e06-d29d0c509663",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-01-22",
+        "amount": 1018329.0,
+        "category_id": "4cf76c01-6a5f-4769-97f7-6d0dc08ce9d5",
+        "transaction_type": "expense",
+        "note": "Mua giày chạy bộ",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "034cbf75-8cb1-4bdb-868c-75bf898c9b42",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-02-17",
+        "amount": 326669.0,
+        "category_id": "4cf76c01-6a5f-4769-97f7-6d0dc08ce9d5",
+        "transaction_type": "expense",
+        "note": "Đồ dùng gia đình thiết yếu",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "ca78cc02-c541-4553-9dec-a5a33bea33d9",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-04-10",
+        "amount": 1242529.0,
+        "category_id": "4cf76c01-6a5f-4769-97f7-6d0dc08ce9d5",
+        "transaction_type": "expense",
+        "note": "Mua giày chạy bộ",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "35254fc1-bebc-46b1-a458-71ae633193fc",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-03-29",
+        "amount": 70663.0,
+        "category_id": "36b898a7-194a-4f32-bc8b-ca681edee38d",
+        "transaction_type": "expense",
+        "note": "Ăn trưa cơm văn phòng",
+        "created_at": "2026-06-07 21:52:25"
+    },
+    {
+        "transaction_id": "7c4e5f59-dc4a-4ae4-8def-168fcf967dcf",
+        "user_id": "e530b43d-b66a-4d87-9912-8cffd256a0a1",
+        "date": "2026-05-07",
+        "amount": 217796.0,
+        "category_id": "7a78a914-d126-4622-8782-add08bbe7ce3",
+        "transaction_type": "expense",
+        "note": "Đi uống bia với đồng nghiệp",
+        "created_at": "2026-06-07 21:52:25"
     }
 ]
