@@ -1,8 +1,7 @@
-﻿# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 import tkinter as tk
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 from matplotlib.figure import Figure
-
 
 class ReportFrame(tk.Frame):
     def __init__(self, parent, controller):
@@ -16,11 +15,22 @@ class ReportFrame(tk.Frame):
             font=("Helvetica", 18, "bold"),
             bg="white"
         ).pack(pady=15)
+        
+        # Tạo một khung (frame) riêng biệt chỉ để chứa biểu đồ
+        self.chart_frame = tk.Frame(self, bg="white")
+        self.chart_frame.pack(fill="both", expand=True, pady=20)
 
+        # Tuyệt chiêu: Tự động vẽ lại biểu đồ mỗi khi mở tab Báo cáo
+        self.bind("<Visibility>", lambda e: self.draw_chart())
+        
+        # Lần chạy đầu tiên
         self.draw_chart()
 
     def draw_chart(self):
-
+        # 1. Xóa biểu đồ cũ (nếu có) để chuẩn bị vẽ cái mới
+        for widget in self.chart_frame.winfo_children():
+            widget.destroy()
+            
         dm = self.controller.data_manager
 
         transactions = dm.get_user_transactions()
@@ -59,15 +69,7 @@ class ReportFrame(tk.Frame):
             )
             ax.set_title("Báo cáo")
 
-        canvas = FigureCanvasTkAgg(
-            fig,
-            master=self
-        )
-
+        # 2. Vẽ biểu đồ mới và nhét nó vào trong khung chart_frame
+        canvas = FigureCanvasTkAgg(fig, master=self.chart_frame)
         canvas.draw()
-
-        canvas.get_tk_widget().pack(
-            fill="both",
-            expand=True,
-            pady=20
-        )
+        canvas.get_tk_widget().pack(fill="both", expand=True)
